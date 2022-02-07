@@ -1,0 +1,7 @@
+3)Static ne demektir?
+Static olarak tanımlanan class'lar new anahtar sözcüğü kullanmadan direk olarak erişilirler.
+
+Console uygulamasında "main()" metodu "static"'tir. "static" tanımlı bir sınıfta, 
+herhangi bir nesne oluşturmadan erişilmesi sağlanır. Program derlenmesi süresi boyunca her yerden erişim sağlanır.
+“static” bir metodun this referansı olamaz. “static” bir metot yalnızca kendi sınıfı tarafından tanımlanan static değişkenlere erişebilir. 
+Not: Her sınıf nesnesi oluşturulduğunda her statik üye değişken için bellekte ayrı yer tahsis edilmez.
