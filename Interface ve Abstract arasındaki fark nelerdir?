@@ -1,0 +1,19 @@
+Interface ve Abstract arasındaki fark nelerdir?
+
+Cevap:
+
+Interface’ler field’lara sahip olmaz.Property ve methodlara sahip olabilirler.
+
+Bir interface birden fazla interface miras alabilir.
+
+İnterface de erişim belirleyiciler yoktur.Sadece methodun imzası vardır.(methodun imzası demek dönüş tipi demektir)
+
+İnterface’ler de method gövdeyicisi olamaz.
+
+Abstract’lar field,property ve method’lara sahip olabilirler.
+
+Abstract sınıflar sadece abstarct sınıftan miras alabilir.(Tek bir classtan )Aynı zaman da birden fazla interface de miras alabilir.
+
+Abstract class erişim belirleyiciler vardır.
+
+Abstract class’larda methodların gövdesi olabilir.
