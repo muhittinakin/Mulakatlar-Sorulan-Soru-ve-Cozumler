@@ -1,0 +1,8 @@
+Continue ile break keyword’leri arasındaki fark nedir?
+
+Cevap:
+Genellikle for döngüsünde kullanılır.
+
+break>>for döngüsünden çıkmak istiyorsa break kullanılır.
+
+Continue>>Bir döngüde ilgili iterasyonda çıkmak için kullanılır.
