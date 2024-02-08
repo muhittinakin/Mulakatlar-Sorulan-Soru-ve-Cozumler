@@ -1,1 +1,1 @@
-# M-lakatlar-Sorulan-Soru-ve-z-mler
+# Mulakatlar-Sorulan-Soru-ve-cozumler
