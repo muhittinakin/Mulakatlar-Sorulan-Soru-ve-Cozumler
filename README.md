@@ -1,1 +1,1 @@
-# Mulakatlar-Sorulan-Soru-ve-cozumler
+# Mulakatlar-Sorulan-Soru-ve-Cozumler
