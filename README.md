@@ -1,6 +1,6 @@
 # Mulakatlar-Sorulan-Soru-ve-Cozumler
 
-#Bir class  birden fazla sınıfı miras almayı destekler mi?
+Bir class  birden fazla sınıfı miras almayı destekler mi?
 Cevap:
 Bir class birden fazla sınıfı miras alamaz.Bir class birden fazla Interface miras alabilir.
 
